@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Panth%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Platform%20Engineering&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Panth%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Applied%20AI%20%2F%20RAG&descAlignY=58&descSize=18" />
 
 </div>
 
@@ -8,58 +8,57 @@
 
 ## 👋 About Me
 
-I'm a **DevOps Engineer** with 3+ years of experience building and operating production-grade AWS-native and Kubernetes (EKS) infrastructure for fintech and enterprise systems. I specialize in CI/CD reliability, infrastructure-as-code, observability engineering, and automation-first operations across distributed microservices at scale.
+I'm a **Software Engineer** with 3+ years of experience building backend services, cloud-native workflows, and AI-powered applications across product and consulting environments. I develop FastAPI and Django services, REST and GraphQL interfaces, asynchronous AWS pipelines, and containerized deployments supporting scalable business workflows — and apply RAG, Anthropic Claude, LangChain, Pinecone, Speech-to-Text processing, and Responsible AI controls to deliver grounded conversational insights.
 
-- 🏢 Currently at **Harness** — DevOps Engineer (Remote, USA)
+- 🏢 Currently at **Gong** — Software Engineer (Remote, USA)
 - 🎓 M.S. Information Technology — Indiana Wesleyan University (2025)
-- 📍 Based in the US · Open to relocation
+- 📍 Based in IL, USA
 - 🌐 Portfolio: [panthpatel16.github.io](https://panthpatel16.github.io)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
-
-**Containers & Orchestration**
-![Kubernetes](https://img.shields.io/badge/Kubernetes_(EKS)-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio_Service_Mesh-466BB0?style=flat&logo=istio&logoColor=white)
-
-**CI/CD & GitOps**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
-
-**Observability & Monitoring**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
-
-**Languages & Scripting**
+**Programming & Software Engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-232F3E?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-6366f1?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-0ea5e9?style=flat)
 
-**Operating Systems**
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu%2FRHEL%2FCentOS)-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF4F8B?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
-**Security & Compliance**
-![IAM](https://img.shields.io/badge/IAM_Governance-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-6366f1?style=flat&logo=shield&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust_Principles-0ea5e9?style=flat)
+**Databases & Data Access**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+
+**Applied AI & RAG**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-6366f1?style=flat)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=flat)
+![Speech to Text](https://img.shields.io/badge/Speech--to--Text-6366f1?style=flat)
+
+**AWS & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 ---
 
@@ -67,52 +66,62 @@ I'm a **DevOps Engineer** with 3+ years of experience building and operating pro
 
 | What I improved | Before → After | How |
 |---|---|---|
-| Deployment failure rate | baseline → **↓ 24%** | Jenkins + GitHub Actions pipeline hardening, SonarQube quality gates |
-| Infrastructure provisioning | **4.5 hrs → 1.5 hrs** | Reusable Terraform + Ansible modules across Dev/Staging/Prod |
-| Mean Time to Detect (MTTD) | **35 min → 18 min** | Prometheus + Grafana + Datadog alert tuning & dashboards |
-| Release cycle time | **14 days → 9 days** | GitLab CI/CD with automated testing & Nexus artifact management |
-| Incident troubleshooting time | **45 min → 22 min** | ELK Stack + CloudWatch centralized logging |
-| Manual operational workload | baseline → **↓ 30%** | Python + Bash automation on Linux (Ubuntu, RHEL) |
-| Kubernetes rollback frequency | baseline → **↓ 25%** | EKS rollout strategy optimization, pod-level failure resolution |
-| Environment-specific failures | baseline → **↓ 24%** | Docker + Kubernetes + Helm deployment consistency |
+| Grounded-answer precision | baseline → **↑ 18%** | RAG workflows with LangChain, Pinecone, and Anthropic Claude via AWS Bedrock (chunking, metadata filtering, reranking) |
+| p95 insight-generation latency | baseline → **↓ 26%** | Async batching, caching, concurrency controls, and retry handling in ingestion/retrieval/summarization pipelines |
+| Document-verification processing time | baseline → **↓ 32%** | Event-driven architecture with AWS Step Functions, SQS, and S3 |
+| p95 API response time | baseline → **↓ 27%** | PostgreSQL query optimization, indexing, and Redis caching |
+| Frontend integration issues | baseline → **↓ 20%** | Standardized JSON responses and validation across 12 REST endpoints |
+| Staging response time | baseline → **↓ 22%** | Django ORM query optimization and PostgreSQL indexing |
+| Historical market-data query latency | **~180ms → 40ms** | DynamoDB access-pattern design and time-series query optimization |
 
 ---
 
 ## 💼 Experience
 
-**DevOps Engineer — Harness** *(Jul 2025 – Present | Remote, USA)*
+**Software Engineer — Gong** *(Jul 2025 – Present | Remote, USA)*
 
-- Hardened CI/CD pipelines for production payment systems across 15+ microservices using Jenkins, GitHub Actions, and SonarQube quality gates — reducing deployment failures by 24%
-- Stabilized AWS EKS deployments by optimizing Kubernetes rollout strategies, cutting rollback frequency by 25%
-- Automated multi-environment (Dev/Staging/Prod) provisioning using Terraform and Ansible — cutting setup time from 4.5 hrs to 1.5 hrs via reusable IaC modules
-- Built observability pipelines with Prometheus, Grafana, and Datadog, reducing MTTD from 35 to 18 minutes
-- Enforced IAM least-privilege access and improved secrets management for financial workloads
-- Built Python + Bash automation on Linux (Ubuntu, RHEL) to reduce manual operational load by 30%
+- Developed Python and FastAPI services unifying call transcripts, emails, and CRM activity into account-level context — powering searchable summaries, coaching insights, deal-risk explanations, and recommended next actions
+- Built RAG workflows using LangChain, Pinecone, and Anthropic Claude through AWS Bedrock model invocation APIs, improving grounded-answer precision by 18%
+- Integrated Speech-to-Text processing for recorded customer conversations, extracting objections, competitor mentions, commitments, sentiment, and follow-up actions
+- Engineered system prompts, few-shot examples, tool-calling schemas, and structured outputs, applying Responsible AI controls including guardrails, content filtering, PII masking, and citation validation
+- Optimized asynchronous ingestion, embedding, retrieval, and summarization pipelines, reducing p95 insight-generation latency by 26%
+- Expanded PyTest unit, integration, and LLM evaluation suites, integrating automated quality gates into CI/CD
 
-**DevOps Engineer — Simform** *(Jun 2022 – Jul 2024 | GJ, India)*
+**Python Developer — Simform** *(Jan 2023 – Jul 2024 | Gujarat, India)*
 
-- Led AWS migration of fintech lending platforms using Terraform + CloudFormation — transitioned 8 core services to production-grade AWS environments
-- Engineered Docker + Kubernetes deployments with Helm, reducing environment-specific failures by 24% across production and staging
-- Built GitLab CI/CD pipelines with SonarQube, Nexus, and automated testing — cutting release cycle from 14 to 9 days
-- Deployed ELK Stack + CloudWatch + Grafana centralized logging, reducing incident troubleshooting from 45 to 22 minutes
-- Automated infrastructure operations via Terraform modules and Python scripting, reducing repetitive workload by 23%
-- Managed Linux environments (Ubuntu, CentOS, RHEL) for production reliability and deployment validation
+- Developed modular Python and FastAPI services for a multi-tenant customer-onboarding platform (registration, document submission, approval routing, notifications, workflow status)
+- Designed REST and GraphQL interfaces across 18 endpoints and resolvers, standardizing Pydantic validation, authentication, and pagination
+- Designed an event-driven document-verification and approval architecture using AWS Step Functions, SQS, and S3, reducing processing time by 32%
+- Optimized PostgreSQL queries, indexes, and Redis caching, improving p95 API response time by 27%
+- Containerized FastAPI services with Docker and deployed via Amazon ECS with health checks and centralized logging
+- Expanded PyTest coverage and contributed to CI/CD quality gates preventing regression defects
+
+**Software Developer Intern — TatvaSoft** *(Jun 2022 – Dec 2022 | Gujarat, India)*
+
+- Built Python and Django backend modules for request creation, assignment, approval, status tracking, and audit-history workflows
+- Developed and documented 12 REST API endpoints, reducing frontend integration issues by 20%
+- Created PyTest unit and regression tests, reproducing and correcting defects reported during QA cycles
+- Optimized Django ORM queries and PostgreSQL indexes, improving average staging response time by 22%
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [StockPulse — Serverless Market Data Aggregator](https://github.com/panthpatel16/stockpulse)
 
-> Event-driven serverless application on AWS that processes real-time market data and computes financial indicators at low latency.
+> Serverless, event-driven application on AWS that processes real-time market data and computes financial indicators at low latency.
 
-**Stack:** `AWS Lambda` · `API Gateway` · `DynamoDB` · `EventBridge` · `SNS` · `Python` · `CloudWatch` · `REST APIs`
+**Stack:** `Python` · `FastAPI` · `AWS Lambda` · `API Gateway` · `DynamoDB` · `EventBridge` · `AWS SAM`
 
-- Designed fully serverless, event-driven architecture on AWS for concurrent market data stream processing
-- Built ingestion and transformation pipelines computing financial indicators — moving averages and VWAP — for analytical use
-- Developed scalable REST API layer via API Gateway with support for concurrent access patterns
-- Decoupled ingestion from computation using async EventBridge + SNS for fault tolerance under variable load
-- Instrumented end-to-end with CloudWatch for distributed visibility across all serverless components
+- Developed and provisioned a serverless market-data platform using AWS SAM for automated cloud deployments
+- Designed DynamoDB access patterns and optimized time-series queries, reducing p99 response latency from ~180ms to 40ms for historical market-data requests
+
+### AI-Augmented CI/CD Pipeline
+
+**Stack:** `Python` · `Flask` · `PyTest` · `Docker` · `GitHub Actions` · `CI/CD`
+
+- Engineered a Python-based deployment pipeline that analyzed historical test and build metrics with rolling anomaly detection, blocking releases on quality or performance regressions
+- Automated Docker health validation, retry handling, deployment tracking, and rollback to the last known-good image via GitHub Actions
 
 ---
 
@@ -120,11 +129,13 @@ I'm a **DevOps Engineer** with 3+ years of experience building and operating pro
 
 <div align="center">
 
-![Panth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panthpatel16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9)
+![Panth's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panthpatel16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
+
+> These images are generated by a scheduled GitHub Action (see `.github/workflows/update-readme-stats.yml`) and committed straight into this repo — no external Vercel endpoint, so no more outages or rate limits.
 
 ---
 
@@ -145,7 +156,7 @@ I'm a **DevOps Engineer** with 3+ years of experience building and operating pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panthpatel16)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://panthpatel16.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panthpatel16)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ptlpanth16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panthpatel1697@gmail.com)
 
 </div>
 
