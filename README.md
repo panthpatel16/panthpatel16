@@ -10,8 +10,8 @@
 
 I'm a **Software Engineer** with 3+ years of experience building backend services, cloud-native workflows, and AI-powered applications across product and consulting environments. I develop FastAPI and Django services, REST and GraphQL interfaces, asynchronous AWS pipelines, and containerized deployments supporting scalable business workflows — and apply RAG, Anthropic Claude, LangChain, Pinecone, Speech-to-Text processing, and Responsible AI controls to deliver grounded conversational insights.
 
-- 🏢 Currently at **Gong** — Software Engineer (Remote, USA)
-- 🎓 M.S. Information Technology — Indiana Wesleyan University (2025)
+- 🏢 Currently at **Gong** - Software Engineer (Remote, USA)
+- 🎓 M.S. Information Technology - Indiana Wesleyan University (2025)
 - 📍 Based in IL, USA
 - 🌐 Portfolio: [panthpatel16.github.io](https://panthpatel16.github.io)
 
@@ -78,7 +78,7 @@ I'm a **Software Engineer** with 3+ years of experience building backend service
 
 ## 💼 Experience
 
-**Software Engineer — Gong** *(Jul 2025 – Present | Remote, USA)*
+**Software Engineer - Gong** *(Jul 2025 – Present | Remote, USA)*
 
 - Developed Python and FastAPI services unifying call transcripts, emails, and CRM activity into account-level context — powering searchable summaries, coaching insights, deal-risk explanations, and recommended next actions
 - Built RAG workflows using LangChain, Pinecone, and Anthropic Claude through AWS Bedrock model invocation APIs, improving grounded-answer precision by 18%
@@ -87,7 +87,7 @@ I'm a **Software Engineer** with 3+ years of experience building backend service
 - Optimized asynchronous ingestion, embedding, retrieval, and summarization pipelines, reducing p95 insight-generation latency by 26%
 - Expanded PyTest unit, integration, and LLM evaluation suites, integrating automated quality gates into CI/CD
 
-**Python Developer — Simform** *(Jan 2023 – Jul 2024 | Gujarat, India)*
+**Python Developer - Simform** *(Jan 2023 – Jul 2024 | Gujarat, India)*
 
 - Developed modular Python and FastAPI services for a multi-tenant customer-onboarding platform (registration, document submission, approval routing, notifications, workflow status)
 - Designed REST and GraphQL interfaces across 18 endpoints and resolvers, standardizing Pydantic validation, authentication, and pagination
@@ -96,7 +96,7 @@ I'm a **Software Engineer** with 3+ years of experience building backend service
 - Containerized FastAPI services with Docker and deployed via Amazon ECS with health checks and centralized logging
 - Expanded PyTest coverage and contributed to CI/CD quality gates preventing regression defects
 
-**Software Developer Intern — TatvaSoft** *(Jun 2022 – Dec 2022 | Gujarat, India)*
+**Software Developer Intern - TatvaSoft** *(Jun 2022 – Dec 2022 | Gujarat, India)*
 
 - Built Python and Django backend modules for request creation, assignment, approval, status tracking, and audit-history workflows
 - Developed and documented 12 REST API endpoints, reducing frontend integration issues by 20%
@@ -141,11 +141,11 @@ I'm a **Software Engineer** with 3+ years of experience building backend service
 
 ## 🎓 Education & Certifications
 
-**M.S. Information Technology** — Indiana Wesleyan University *(Aug 2024 – Dec 2025)*
+**M.S. Information Technology** - Indiana Wesleyan University *(Aug 2024 – Dec 2025)*
 
-**B.E. Information Technology** — Gujarat Technological University *(Aug 2019 – May 2023)*
+**B.E. Information Technology** - Gujarat Technological University *(Aug 2019 – May 2023)*
 
-**AWS Cloud Technical Essentials** — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/N9PGZEGDPUX6)
+**AWS Cloud Technical Essentials** - [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/N9PGZEGDPUX6)
 
 ---
 
